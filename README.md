@@ -1,4 +1,4 @@
-                                  Title : NoteReminder-Register
+                                                         Title : NoteReminder-Register
 Description
 
 •	NoteReminder-Register is a feature Android application designed to elevate your note-taking and organization experience. 
@@ -6,24 +6,35 @@ Description
 •	This project seamlessly combines the convenience of note creation with timely reminders, ensuring that important thoughts, ideas, and tasks are never overlooked. 
 
 •	Whether you're a student, professional, or someone with a busy lifestyle.
-•	NoteReminder-Register is your go-to app for staying on top of your notes and deadlines. 
+
+•	NoteReminder-Register is your go-to app for staying on top of your notes and deadlines.
+
 •	In this Project there is also registrarion where users can fill their hobby , age and other details.
+
 •	Features
+
 Effortless Note-Taking:
 Note provides a user-friendly interface for creating and organizing notes effortlessly. Capture your thoughts, ideas, and to-do lists with ease, using rich text formatting options for a personalized touch.
+
 Flexible Reminder Settings:
 Users can customize reminders based on their specific needs. Whether it's a one-time event or a recurring task, Time allows users to set reminders with various options set into a clock type given structure.
+
 Integrated Reminders:
 Reminder simplifies the process of setting reminders with its intuitive and user-friendly interface. Create reminders for tasks, meetings, birthdays, and more in just a few taps.
 Set reminders for individual notes or entire notebooks, ensuring that time-sensitive information is brought to your attention when needed. 
+
 Flexible Scheduling:
 Set reminders with precision using flexible scheduling options. Choose specific dates, times, and recurrence patterns to tailor reminders to your unique needs, whether it's a one-time event or a recurring task.
+
 Notification Snooze and Dismiss:
 Easily manage your reminders directly from notifications. Snooze reminders for a few minutes or dismiss them with a single tap, giving you control over your reminders without having to open the app.
+
 Registration
 Filling Details like Name , Age , Hobbies , Fullname , Phone-number , City , Password and Confirm Password for safety of users details .
+
 Dark Mode Support:
 Enhance your user experience with the option to switch to dark mode, providing a visually comfortable experience in low-light environments.
+
 
 Output
   ![image](https://github.com/Hetsi1910/MAD_Project_21012011081/assets/98119814/89c7f0ad-509b-4dbf-9968-e27278230b16)
