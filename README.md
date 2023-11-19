@@ -1,7 +1,10 @@
                                   Title : NoteReminder-Register
 Description
+
 •	NoteReminder-Register is a feature Android application designed to elevate your note-taking and organization experience. 
+
 •	This project seamlessly combines the convenience of note creation with timely reminders, ensuring that important thoughts, ideas, and tasks are never overlooked. 
+
 •	Whether you're a student, professional, or someone with a busy lifestyle.
 •	NoteReminder-Register is your go-to app for staying on top of your notes and deadlines. 
 •	In this Project there is also registrarion where users can fill their hobby , age and other details.
